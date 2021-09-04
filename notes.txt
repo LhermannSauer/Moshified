@@ -1,0 +1,17 @@
+Essential Photoshop skills
+    open proyect
+    user eyepicker to get colors
+    use type tool and click text to get font size
+    use the ruler tool to get distance between items
+
+1. Identify Components
+    intro (navbar, banner or hero)
+    subscription
+    plans
+    brief description (title + 4 articles)
+    Control panel
+    references, histories.
+    Callout component
+    footer
+
+Color palette
