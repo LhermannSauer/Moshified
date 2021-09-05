@@ -14,4 +14,13 @@ Essential Photoshop skills
     Callout component
     footer
 
-Color palette
+2   Color palette
+3   Typography
+
+4   Components! 
+    4.1 Link
+    4.2 badge components
+    4.3 lists
+    4.4 Icons
+
+    Media Object
