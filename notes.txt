@@ -1,3 +1,46 @@
+
+Layouts
+Typography
+Images
+Forms
+Transformations
+Animations
+Clean CSS
+
+LAYOUT
+
+The Box Model
+	Margin
+	Border
+	Padding
+	Content: at the code
+	Padding
+	Border
+	Margin
+
+Sizing elements:
+	box-sizing
+		content-box
+		border-box
+
+Overflow:
+	visible
+	hidden
+	scroll
+	auto: scrollbars only when overflow
+overflowy and overslowx
+
+measurement units
+	absolute
+		px: borders, 
+	relative	
+		%: 
+		vw
+		vh
+		rem
+		em
+
+
 Essential Photoshop skills
     open proyect
     user eyepicker to get colors
