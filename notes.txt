@@ -67,3 +67,21 @@ Essential Photoshop skills
     4.4 Icons
 
     Media Object
+
+
+
+Optimize images with ps
+	look for dimensions
+	1532 * 1656
+
+
+Building for prod
+
+	Combine css and js
+	minify js/css files
+	optimize images
+
+	Tools
+		webpack: a lot of configuration
+		Rollup
+		Parcel
